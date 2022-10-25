@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WWordCounter</string>
+    <string name="CharactersSelection">Characters</string>
+    <string name="WordsSelection">Words</string>
+    <string-array name = "Choices">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
+</resources>
